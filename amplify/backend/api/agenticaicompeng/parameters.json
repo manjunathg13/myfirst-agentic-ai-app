@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "agenticaicompeng",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2025-06-18T07:36:36.849Z"
+}

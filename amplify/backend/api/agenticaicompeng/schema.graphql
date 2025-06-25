@@ -1,0 +1,12 @@
+type AltPartRecommendation @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  MPN: String!
+  Description: String
+  AltMPN1: String
+  AltMPN2: String
+  AltMPN3: String
+  LifecycleStatus: String
+  ROHS: String
+  EOL: String
+}
+ 

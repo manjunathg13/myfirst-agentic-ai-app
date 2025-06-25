@@ -1,0 +1,10 @@
+{
+  "resourceName": "s3agenticaicompengstoragedf52dae1",
+  "bucketName": "agenticaicompeng-storage-df52dae1",
+  "policyUUID": "1e5c91eb",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE"
+  ]
+}
